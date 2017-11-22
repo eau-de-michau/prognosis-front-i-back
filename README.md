@@ -1,23 +1,28 @@
-zu¿ycie[kW], cena jednostkowa[z³], kod[A/B/C/D/E...], wzór[2+2*2], koszt[z³]
+zuÅ¼ycie[kW], cena jednostkowa[zÅ‚], kod[A/B/C/D/E...], wzÃ³r[2+2*2], koszt[zÅ‚]
 
 ==================INDEX========================
-wybierz profesjê: klient / operator
+
+wybierz profesjÄ™: klient / operator
 
 ==================OPERATOR=====================
-> dodaj licznik (miesi¹c+rok, kod, zu¿ycie, cena jednostkowa, koszt) 
-  + wyœwietl grupy taryfowe (kod, wzór)
-// jak wpiszê zu¿ycie i cenê, to:   
-  + wyœwietl grupy taryfowe (kod, cena)
+> dodaj licznik (miesiÄ…c+rok, kod, zuÅ¼ycie, cena jednostkowa, koszt) 
+  + wyÅ›wietl grupy taryfowe (kod, wzÃ³r)
+// jak wpiszÄ™ zuÅ¼ycie i cenÄ™, to:   
+  + wyÅ›wietl grupy taryfowe (kod, cena)
 
-> usuñ licznik (id licznika)
+> usuÅ„ licznik (id licznika)
 
-> wyœwietl listê liczników 
-	+ suma wskazanych liczników w we wskazany miesi¹c i rok
-	+ suma wskazanych kodów we wskazany miesi¹c i rok 
-	+ suma wszystkich liczników
+> wyÅ›wietl listÄ™ licznikÃ³w 
+	
+	+ suma wskazanych licznikÃ³w w we wskazany miesiÄ…c i rok
+	
+	+ suma wskazanych kodÃ³w we wskazany miesiÄ…c i rok 
+	
+	+ suma wszystkich licznikÃ³w
 
 ==================KLIENT=======================
-wyœwietl konkretny licznik (miesi¹c, rok, zu¿ycie, cena, kod)
+
+wyÅ›wietl konkretny licznik (miesiÄ…c, rok, zuÅ¼ycie, cena, kod)
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
